@@ -1,4 +1,4 @@
-# Reale Estate NFT Dapp
+# Real Estate NFT Dapp
 
 ## About The Project
 This platform allows you to list NFTs that you would like to sell to given buyer. The platform inspects the NFT as well as the buyer's deposit and validates the transaction (for a fee) before approving and finalising the sale ( escrow contract).  Please visit the following website for more information on escrow contract ( https://www.geeksforgeeks.org/what-is-escrow-smart-contract/)
